@@ -1,0 +1,22 @@
+{
+  "name": "chem-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeedDahBirds/chem-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FeedDahBirds/chem-tools/issues"
+  },
+  "homepage": "https://github.com/FeedDahBirds/chem-tools#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
