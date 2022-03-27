@@ -7,6 +7,6 @@ const balance_equation = (equation) => {
     return {};
 }
 
-modules.exports = {
+module.exports = {
     balance_equation
 }

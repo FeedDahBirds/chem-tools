@@ -1,7 +1,7 @@
 {
   "name": "chem-tools",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Chem-tools set to power stuff on my github.io",
   "main": "index.js",
   "scripts": {
     "test": "jasmine",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/FeedDahBirds/chem-tools.git"
   },
-  "author": "",
+  "author": "chrislayton@feeddahbirds.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FeedDahBirds/chem-tools/issues"
